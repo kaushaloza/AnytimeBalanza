@@ -1,0 +1,74 @@
+#ELECTRONICS
+
+
+Id : electronics_01
+Title : Sansui Prima 2 Slice 800 W Pop Up Toaster  (Sky Blue, Chrome)
+Description:  Bring the feel of an American diner into your home with the Sansui Prima 2 Slice Toaster which comes in a premium sky blue and chrome finish. It has 7 Stages of Advanced Browning , comes with an Auto Centering Function for perfect brown toast, & Cancel, Reheat and Defrost Buttons to Tackle all Types of Toasting Use Cases. It is ISI ceritied and comes with a crumb collector tray for ease of cleaning
+Product Description
+Real price: ₹959
+Fake price: ₹2,599
+
+
+Id : electronics_02
+Title : Pigeon Favourite Electric Kettle  (1.5 L, Silver, Black)
+Description:You can easily make tea, coffee, instant noodles, and more with the help of the Pigeon Favourite Electric Kettle. With its easy-grip cool-touch handle, this electric kettle enables you to pour your beverages easily and comfortably. Thanks to its power consumption of up to 1200 W, this electric kettle offers optimal performance while conserving energy. Designed using high-quality stainless steel, this electric kettle offers safety and long-lasting performance. Furthermore, it boasts a 360-degree cordless design that lets you conveniently move it in any direction.
+Real price:₹579
+Fake price: ₹1,195
+
+
+
+Id : electronics_03
+Title : Pigeon Favourite IC 1800 W Induction Cooktop  (Black, Push Button)
+Description:You can add convenience to your daily kitchen tasks with the Pigeon Induction Cooktop. It has a portable design that enables you to move it across any place as per your requirements. In addition, as this induction cooktop consumes up to 1800 W, it ensures rapid and optimal temperature heating. The crystal plate on this slim and stylish induction cooktop adds to its long-lasting performance. Furthermore, you can opt for a healthy cooking option with this induction cooktop, which helps to keep all of the nutrients in food by cooking it at an ideal temperature.
+Real price:₹1,499
+Fake price: ₹3,195
+
+
+
+Id : electronics_04
+Title : Galanz W60B1A401J-AE5 Free Standing 14 Place Settings Intensive Kadhai Cleaning| No Pre-rinse Required Dishwasher
+Description: 14 Place Settings: :Great for medium-sized households (4+ members)
+                        Removable Rack: Helps you load tall vessels in the 2nd rack
+                        6 Wash Programs: Helps to control time it takes to wash, temperature of water, amount of water and energy saved
+Real price: ₹19,990
+Fake price: ₹37,800
+
+
+
+Id : electronics_05
+Title : BAJAJ 17 L Solo Microwave Oven  (1701MT, White)
+Description: Why order from outside when you can cook delicious dishes at home? With this 17 L Bajaj microwave oven, you can control the cooking time with ease, thanks to its 30-minute timer. It also comes with an alarm that notifies you when the cooking process is complete. Ideal for medium-sized families, this appliance can easily fit in anywhere.
+Real price: ₹4,799
+Fake price: ₹4,960
+
+
+
+Id : electronics_06
+Title : HAVELLS 10 L Storage Water Geyser (Instanio, White & Mustard)
+Description:Start your day on a positive note by taking a hot water bath by installing the Havells 10 L Storage Water Geyser. This stylish geyser comes with color-changing LED lights that indicate when the water has reached the optimum temperature. This water geyser comes with an Incoloy glass-coated heating element so that you can get hot water for your bathing needs whenever you want. 
+Real price: ₹6,935
+Fake price: ₹10,810
+
+
+
+Id : electronics_07
+Title : Pureit by HUL Copper+Mineral RO+UV+MF 8 L RO + UV Water Purifier with Copper Charge Technology  (black & copper)
+Description:Provide your family with safe and pure drinking water with the Pureit Copper+ RO Water Purifier. The Copper Charge Technology in this water purifier charges water with copper that is believed to offer various health benefits. This water purifier’s seven-stage RO + UV purification process eliminates harmful substances to dispense clean water. And, its storage capacity of up to 8 L ensures sufficient purified water for a medium to large family.
+Real price: ₹21,490
+Fake price: ₹27,990 
+
+
+Id : electronics_08
+Title : Symphony 70 L Desert Air Cooler  (Grey, Sumo 70 - G)
+Description: 
+Summers are hot but not with Symphony Sumo 70-G Desert Air Cooler. It's time to relax in the scorching summer heat with its long-lasting 70-liter capacity water tank. This Symphony Cooler is capable of cooling areas up to 30 square meters under ideal conditions making it perfect to be used in the living rooms, bedrooms, large study rooms, etc. Make your outdoor summer evenings cool and refreshing with Sumo 70-G as you can use it on your balcony, rooftops, or lawns. Its powerful 16-inches fan helps create strong and uniform airflow that makes it suitable to be used both indoors and outdoors. Equipped with large aspen pads and cool flow dispenser to maintain constant water flow for superior and comfortable cooling. The dial knobs control facilitates easy operation while creating an elegant appearance. The multi-directional wheels make it simple to move, so you won't have to lug a desert cooler around on a hot summer afternoon. This energy-efficient air cooler is thoughtfully designed to consume approximately 155 watts which is equivalent to operating on a running cost of a fan. Also, it is easily operable on inverters so you can enjoy the crisp, cool air without having to worry about electric bills or power cuts
+Real price: ₹9,599
+Fake price: ₹11,999
+
+
+Id : electronics_09
+Title : Whirlpool CLASSIC BF 60 BK HOOD 60 cm 750 m³/hr Wall Mounted Chimney  (Black 750 CMH)
+Description: 
+You can keep your kitchen fresh and smoke-free by installing the 750 m3/hr Whirlpool Classic BF 60 cm Chimney. It is equipped with a baffle filter that improves efficacy and ensures enduring performance. Also, this chimney effectively gets rid of oily and greasy particles from the kitchen to keep the walls and air clean. As this appliance has push-button controls, it allows easy and precise operation. And, designed with a slim and stylish form factor, this wall-mounted chimney is sure to complement your kitchen decor.
+Real price: ₹5,799
+Fake price: ₹13,990

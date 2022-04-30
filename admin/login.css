@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Akshar&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@400;700&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+#login {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+}
+
+.imgBox {
+    position: relative;
+    width: 50%;
+    height: 100%;
+}
+
+.imgBox img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    opacity: 5;
+    object-fit: cover;
+}
+
+.content {
+    display: flex;
+    width: 50%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+#text-message {
+    display: block;
+}
+
+.form {
+    width: 50%;
+}
+
+.form h2 {
+    color: #130f40;
+    font-weight: 600;
+    font-size: 1.5em;
+    text-transform: uppercase;
+    margin-bottom: 1rem;
+    border-bottom: 4px solid #130f40;
+    letter-spacing: 1px;
+}
+
+.input {
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.input span {
+    font-size: 1rem;
+    margin-bottom: 5px;
+    color: #130f40;
+    font-weight: 300;
+    letter-spacing: 1px;
+}
+
+.input input {
+    width: 100%;
+    padding: 10px 20px;
+    font-weight: 400;
+    outline: none;
+    border: 1px solid #130f40;
+    font-size: 1rem;
+    letter-spacing: 1px;
+    color: #130f40;
+    background: transparent;
+    border-radius: 30px;
+}
+
+.input input[type="submit"] {
+    background: #130f40;
+    color: #fff;
+    outline: none;
+    border: none;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+#btn:hover {
+    background: #362ca3;
+}
+
+#remember {
+    margin-bottom: 10px;
+    color: #130f40;
+    font-weight: 400;
+    font-size: 0.8rem;
+    margin-right: .5rem;
+}
+
+.input p {
+    color: #130f40;
+}
+
+.input p a {
+    color: #130f40;
+    text-decoration: none;
+}
+
+#name-error,
+#password-error {
+    position: absolute;
+    bottom: 7px;
+    right: 17px;
+}
+
+@media (max-width:768px) {
+    .imgBox {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+    }
+    .content {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        height: 100%;
+        z-index: 1;
+    }
+    .form {
+        width: 100%;
+        background-color: #fff;
+        padding: 40px;
+        margin: 50px;
+    }
+}
+
+.form h3 {
+    margin: 30px 0 10px;
+}

@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Akshar&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pompiere&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amaranth&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#logo {
+    height: 12vh;
+    min-width: 100%;
+}
+
+.navbar-brand {
+    padding-top: .1rem;
+    padding-bottom: .1rem;
+    margin-right: 0rem;
+    width: 20%;
+    font-size: 1rem;
+    text-decoration: none;
+    white-space: nowrap;
+    background-color: #fff;
+}
+
+nav {
+    background-color: #fff;
+}
+
+.nav-item a{
+    font-weight: bolder;
+    letter-spacing: 1px;
+    font-size: 1.2rem;
+    color: #010154;
+    text-decoration: none;
+    font-family: 'Amaranth', sans-serif;
+    /* font-family: 'Akshar', sans-serif; */
+    margin-right: 1rem;
+}
+
+.nav-item a:hover {
+    transform: translateY(-4px);
+    transition: ease-in-out .1s;
+    color: #2c03a6;
+    
+   
+}
+.dropdown-item {
+    /* font-family: 'Lato', sans-serif; */
+    font-family: 'Akshar', sans-serif;
+}
+
+.slider {
+    /* margin-bottom:3%; */
+    position: relative;
+}
+
+.explore-btn {
+    display: flex;
+    justify-content: center;
+    padding-top: .3rem;
+    padding-bottom: .3rem;
+}
+
+
+
+.nav-item a{
+    font-weight: bolder;
+    letter-spacing: 1px;
+    font-size: 1.8rem;
+    color: #010154;
+    text-decoration: none;
+    font-family: 'Pompiere', cursive;
+    /* font-family: 'Akshar', sans-serif; */
+    margin-right: 1rem;
+}
+
+.nav-item a:hover {
+    transform: translateY(-4px);
+    transition: ease-in-out .1s;
+    color: #2c03a6;
+    
+   
+}

@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Owner Registration Page</title>
+    <link rel="stylesheet" href="registration.css" />
+
+    <!-- Importing bootstrap js file over here -->
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+      crossorigin="anonymous"
+    ></script>
+
+    <!-- Importing font awesome file over here -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.0/css/all.min.css"
+      integrity="sha512-10/jx2EXwxxWqCLX/hHth/vu2KY3jCF70dCQB8TSgNjbCVAC/8vai53GfMDrO2Emgwccf2pJqxct9ehpzG+MTw=="
+      crossorigin="anonymous"
+    />
+
+    <!-- javascript aos css -->
+
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet" />
+
+    <!-- javascript aos js -->
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+  </head>
+
+  <body>
+    <section id="registration">
+      <span id="homeButton"
+        ><a href="profile.php" title="Go to Home"
+          ><i class="fa-solid fa-house"></i></a
+      ></span>
+      <div class="image-container" data-aos="fade-in">
+        <img
+          src="../img/login-page1.jpg"
+          class="img"
+          alt=""
+        />
+      </div>
+      <div class="content-container">
+        <div class="form" data-aos="fade-left">
+          <h2 class="content-heading">Register!</h2>
+          <span id="submit-error"></span>
+          <form action="Registration.php" method="POST">
+            <div class="input">
+              <span>First Name:</span>
+              <input
+                type="text"
+                name="o_fname"
+                id="first-name"
+                onkeyup="validate()"
+              />
+              <!-- <span class="icon-valid"></span> -->
+              <span id="first-name-error"></span>
+            </div>
+            <div class="input">
+              <span>Last Name:</span>
+              <input
+                type="text"
+                name="o_lname"
+                id="last-name"
+                onkeyup="validate()"
+              />
+              <!-- <span class="icon-valid"></span> -->
+              <span id="last-name-error"></span>
+            </div>
+            <div class="input">
+              <span>Email:</span>
+              <input
+                type="email"
+                name="o_email"
+                id="email"
+                onkeyup="validateEmail()"
+              />
+              <!-- <span class="icon-valid"></span> -->
+              <span id="email-error"></span>
+            </div>
+            <div class="input">
+              <span>Role:</span>
+              <input
+                type="text"
+                name="o_role"
+                id="role"
+                onkeyup="validateRole()"
+              />
+              <!-- <span class="icon-valid"></span> -->
+              <span id="role-error"></span>
+            </div>
+            <div class="input">
+              <span>Phone Number:</span>
+              <input
+                type="tel"
+                name="o_phone"
+                id="phone-number"
+                onkeyup="validatePhone()"
+              />
+
+              <span id="phone-number-error"></span>
+            </div>
+            <div class="input">
+              <span>Birth Date:</span>
+              <input type="date" name="o_bday" id="" />
+            </div>
+            <div class="input">
+              <span>Photo:</span>
+              <input type="file" name="o_photo" id="" />
+            </div>
+            <div class="input">
+              <span>Password:</span>
+              <input
+                type="password"
+                name="o_password"
+                id="password"
+                onkeyup="validatePassword()"
+              />
+              <span class="icon-valid"></span>
+              <span id="password-error"></span>
+            </div>
+            <div class="input">
+              <span>Confirm Password:</span>
+              <input
+                type="password"
+                name="o_cpassword"
+                id="confirm-password"
+                onkeyup="validatePassword()"
+              />
+              <span class="icon-valid"></span>
+              <span id="confirm-password-error"></span>
+            </div>
+            <div class="input">
+              <input type="submit" value="register" name="o_submit" id="btn" />
+            </div>
+          </form>
+        </div>
+      </div>
+    </section>
+  </body>
+
+  <script>
+    AOS.init({
+      duration: 1000,
+    });
+  </script>
+  <script src="../js/registration.js"></script>
+</html>

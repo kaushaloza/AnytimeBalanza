@@ -1,0 +1,111 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Akshar&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@400;700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    /* background-image: url("img/laptop.jpg"); */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: rgb(199, 189, 189);
+}
+
+/* .feedback-image{
+    text-align: center;
+    
+} */
+.feedback-image img{
+
+    min-width: 100px;
+    width:100px;
+    height: 100px;
+    transform: rotate(25deg);
+    background-color: aqua;
+    border-radius:50%;
+    
+    
+}
+
+.container{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    background-color: #fff;
+    font-family: 'Poppins', sans-serif;
+    border-radius: 1rem;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    
+}
+.row{
+    padding: 5rem;
+    
+}
+.row h2{
+    font-size: 3rem;
+    margin-top: -3rem;
+    margin-bottom:3rem;
+    color: #130f40;
+   
+
+
+}
+
+#email{
+    width: 100%;
+
+}
+.form-group{
+    margin-top: .7rem;
+    margin-bottom: .5rem;
+}
+.form-group input{
+    border-radius: 0.5rem;
+    margin-bottom: 1rem;
+    border: 1px solid #686de0;
+    font-weight: bold;
+   
+}
+
+textarea{
+    border: 1px solid #686de0;
+}
+.one, .t2{
+    margin: .5rem;
+    border: 1px solid #000;
+}
+p{
+    font-size: 1.2rem;
+    font-style: italic;
+    color: #686de0;
+}
+input::placeholder{
+    font-weight: normal;
+}
+
+label{
+    font-weight: bold;
+    
+}
+
+#msg{
+    border-radius: 1rem;
+}
+.sButton{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+
+#submitFeedbackBtn{
+    position:relative;
+    top: -4rem;
+    background-color: #130f40;
+    font-weight: normal;
+}
